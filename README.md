@@ -1,4 +1,3 @@
-[aim-perfect-mobile.html](https://github.com/user-attachments/files/28835689/aim-perfect-mobile.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
